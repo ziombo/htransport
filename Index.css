@@ -14,6 +14,11 @@
     height: 32rem;
 }
 
+.flag {
+    float: right;
+    border: 1px solid black;
+    border-radius: 50%;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
